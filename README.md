@@ -8,3 +8,8 @@ Project Information
 - Name: Profile Card
 - Project ID: A01
 - Date: 3.19.2024
+
+Resources
+- https://youtu.be/np3L1lb-Uvs?si=SQ4aHmx6ObQyE2vh
+- https://fonts.google.com/
+- https://boxicons.com/
